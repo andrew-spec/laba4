@@ -20,7 +20,7 @@ public class Laba4 {
         
         System.out.println("Helo!");
         
-        
+        System.out.println("Helo man!");
     }
     
 }
