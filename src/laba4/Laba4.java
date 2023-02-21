@@ -16,7 +16,9 @@ public class Laba4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hsodi");
+        System.out.println("Helo world!");
+        
+        System.out.println("Helo!");
         
         
     }
