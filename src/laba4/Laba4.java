@@ -20,7 +20,16 @@ public class Laba4 {
         
         System.out.println("Helo!");
         
+
         System.out.println("Helo man!");
+
+        
+        System.out.println("world!");
+        
+        System.out.println("world man!");
+        
+        System.out.println("man!");
+
     }
     
 }
