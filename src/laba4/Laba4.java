@@ -30,6 +30,9 @@ public class Laba4 {
         
         System.out.println("man!");
 
+        
+        System.out.println("Привет, Андрей....");
+        
     }
     
 }
