@@ -24,6 +24,8 @@ public class Laba4 {
         System.out.println("world!");
         
         System.out.println("world man!");
+        
+        System.out.println("man!");
     }
     
 }
